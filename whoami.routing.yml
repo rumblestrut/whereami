@@ -1,0 +1,7 @@
+whoami.content:
+  path: '/hello'
+  defaults:
+    _controller: 'Drupal\whoami\Controller\WhoamiController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
