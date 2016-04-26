@@ -1,6 +1,6 @@
-name: Where Am I Module
-description: Tells developers which site they are on to eliminate confusion.
+name: Where Am I
+description: Tells developers which environment they are on to eliminate confusion.
 package: Development
 
-type: Module
+type: module
 core: 8.x
