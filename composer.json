@@ -1,0 +1,14 @@
+{
+  "name": "drupal/whereami",
+  "description": "Tells developers which environment they are on to eliminate confusion.",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "homepage": "https://drupal.org/project/whereami",
+  "author": [
+    {
+      "name": "Eric J Gruber (ericjgruber)",
+      "homepage": "https://www.drupal.org/u/rumblestrut",
+      "role": "Maintainer"
+    }
+  ],
+}
