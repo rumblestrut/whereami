@@ -1,0 +1,7 @@
+whereami.content:
+  path: '/hello'
+  defaults:
+    _controller: 'Drupal\whereami\Controller\WhereamiController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'
