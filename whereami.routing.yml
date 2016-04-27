@@ -1,5 +1,5 @@
 whereami.content:
-  path: '/hello'
+  path: '/whereami'
   defaults:
     _controller: 'Drupal\whereami\Controller\WhereamiController::content'
     _title: 'Hello World'
