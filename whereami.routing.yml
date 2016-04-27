@@ -4,4 +4,4 @@ whereami.content:
     _controller: 'Drupal\whereami\Controller\WhereamiController::content'
     _title: 'Where Am I?'
   requirements:
-    _permission: 'access content'
+    _permission: 'administer users'
