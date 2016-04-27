@@ -1,5 +1,5 @@
 # Where Am I?
-Where Am I is a Drupal 7 module to help developers know with a glance the environment being worked in.
+Where Am I is a Drupal 8 module to help developers know with a glance the environment being worked in.
 
 To use:
 
