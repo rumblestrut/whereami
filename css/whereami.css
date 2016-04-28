@@ -1,5 +1,5 @@
-.block-whereami {
-  background-color: #FF0000 !important;
+div#block-whereami {
+  background-color: #FF0000;
   color: #fff;
   font-family: Arial, sans-serif;
 }
