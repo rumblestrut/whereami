@@ -26,6 +26,12 @@
        '#type' => 'markup',
        '#markup' => "<p>Site URL: " . $url . "</p>
        <p>Site Host: " . $hostname . "</p>",
-       );
+       '#theme' => 'block_whereami',
+       '#attached' => array(
+         'library' =>  array(
+           'whereami/whereami'
+         ),
+       ),
+     );
     }
  }
