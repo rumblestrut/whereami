@@ -10,4 +10,4 @@ Clicking on 'Place Block' button for any given region a "Place Block" dialogue p
 available blocks. To quickly find the block, simply use 'Filter by block name' option or use mouse-scroll to locate
 'Where Am I'. This way you can add any number of instances of the custom block anywhere on your site.
 
-Modified from: https://www.drupal.org/node/2101565
+Instructions for placing a block modified from: https://www.drupal.org/node/2101565
