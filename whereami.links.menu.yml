@@ -1,6 +1,0 @@
-whereami.admin:
-  title: 'Where Am I'
-  description: 'Settings page for Where Am I.'
-  parent: system.admin_config_development
-  route_name: whereami.content
-  weight: 100

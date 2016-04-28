@@ -22,6 +22,7 @@
      $url = $_SERVER['HTTP_HOST'];
      $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
 
+
      return array(
        '#type' => 'markup',
        '#markup' => "<p>Site URL: " . $url . "</p>
